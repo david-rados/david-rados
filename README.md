@@ -1,4 +1,12 @@
-## Hi there 👋
+## David Rados
+
+High school student at Campion School Athens.
+
+**Interests:** Number theory · Combinatorics · Mathematical proof  
+**Competitions:** National Math Olympiad Silver 2026  
+**Languages:** Python (learning C++)  
+
+Currently working on: Project Euler · Karting telemetry analysis
 
 <!--
 **david-rados/david-rados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

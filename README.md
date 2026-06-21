@@ -1,4 +1,9 @@
 ## Hi, I'm David 👋
+⚡ My Weekly Algorithm:
+- Monday - Friday:   Slaying math problems, debugging code, studying markets 💻
+- Saturday - Sunday: Chasing apexes, burning rubber, and optimizing lap times 🏎️💨
+
+---
 
 ### 🎯 Aspiring Quantitative Researcher & Finance Enthusiast
 I am a high school student passionate about the intersection of mathematics, computer science, and financial markets. I am learning the foundations of data analysis, statistical modeling, and programming to prepare for a future career in quantitative finance, by solving financial problems with mathematical rigor.

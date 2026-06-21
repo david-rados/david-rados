@@ -20,9 +20,3 @@ I am a high school student passionate about the intersection of mathematics, com
 
 ### 🏆 Achievements
 - 🥈 **43 National Math Olympiad - Archimedes** - Awarded a Silver Medal.
-
----
-
-### 📫 Connect with me
-- **LinkedIn:** [Insert Link]
-- **Email:** david.c.rados@gmail.com

@@ -1,6 +1,6 @@
 ## Hi, I'm David 👋
 ⚡ My Weekly Algorithm:
-- Monday - Friday:   Slaying math problems, debugging code, studying markets 💻
+- Monday - Friday:   Slaying math & physics problems, debugging code, studying markets 💻
 - Saturday - Sunday: Chasing apexes, burning rubber, and optimizing lap times 🏎️💨
 
 ---

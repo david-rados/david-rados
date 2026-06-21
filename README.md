@@ -1,4 +1,4 @@
-## Hi, I'm David Rados 👋
+## Hi, I'm David 👋
 
 ### 🎯 Aspiring Quantitative Researcher & Finance Enthusiast
 I am a high school student passionate about the intersection of mathematics, computer science, and financial markets. I am learning the foundations of data analysis, statistical modeling, and programming to prepare for a future career in quantitative finance, by solving financial problems with mathematical rigor.

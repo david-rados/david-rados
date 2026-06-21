@@ -19,4 +19,4 @@ I am a high school student passionate about the intersection of mathematics, com
 ---
 
 ### 🏆 Achievements
-- 🥈 **43 National Math Olympiad - Archimedes** - Awarded a Silver Medal.
+- 🥈 **43rd National Math Olympiad - Archimedes** - Awarded a Silver Medal.
